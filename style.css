@@ -1,0 +1,49 @@
+
+body {
+    
+    display: flex;
+    flex-direction: column;
+    padding-top: 56px; /* Adjust according to navbar height */
+}
+    
+
+.custom-card {
+  margin: 15px 30px 3px 40px;
+  padding: 6%;
+  transition: 0.3s;
+  border: 1px solid #2b393c; /* Set the border color */
+  border-radius: 8px; /* Set the */
+  height: 90%;
+}
+
+
+
+.card-text{
+
+  text-size-adjust:0px;
+}
+
+.container{
+height: auto;
+
+}
+
+.card-img-top{
+height: 200px;
+width: auto;
+border-radius: 4px;
+
+
+}
+
+.card-text{
+margin-bottom: 30px;
+}
+
+.btn-primary{
+margin-bottom: 40px;
+}
+.custom-background {
+background-color: #eff6fa; /* Use your desired color code */
+padding: 10px;
+}
